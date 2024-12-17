@@ -2,7 +2,21 @@
 # Offene Bücherschränke - Konzept für ein Nutzungsprofil/ Nutzunsverhalten. 
 von Alfred Testa. Winter 2024.
 
-Update 17.12.2024. Verfolgt wird die Entwicklung einer App zur Nutzung offener Bücherschränke im öffentlichen Raum. Open bookcases (OBC) sind ein Sonderfall von Geocaching.
+Update 17.12.2024-2
+Die App soll HocusLocus heißen und einen Sonderfall von Geocaching anwendbar machen.
+Geocaching ist eine Art Schatzsuchen, bei dem Teilnehmer mit Hilfe von GPS-Koordinaten und Hinweisen versteckte "Schätze" (genannt "Caches") finden. Der Sonderfall ist, dass der Cache ausschließlich mit Büchern bestückt wird. Es handelt sich also um einen offenen Bücherschrank im öffentlichen Raum, der wie ein Geocache funktioniert.
+Der Sinn ist Menschen zum Austausch von Büchern zu motivieren und gleichzeitig die Beobachtung von Selbstorganisation zu ermöglichen.
+Bibliothek ohne zentrale Organisation. Jeder Nutzer ist ein Bibliothekar.
+
+The app is called HocusLocus and is intended to make a special case of geocaching applicable.
+Geocaching is a type of treasure hunt in which participants use GPS coordinates and clues to find hidden “treasures” (called “caches”). The special case is that the cache is filled exclusively with books. It is therefore an open bookcase in a public space that works like a geocache.
+The purpose is to motivate people to exchange books and at the same time to enable the observation of self-organization.
+A library without a central organization. Every user is a librarian.
+
+
+
+Update 17.12.2024-1
+Verfolgt wird die Entwicklung einer App zur Nutzung offener Bücherschränke im öffentlichen Raum. Open bookcases (OBC) sind ein Sonderfall von Geocaching.
 
 Was soll eine App können?
 1. Standorte und Adressen von OBC dokumentieren und aktualisieren. Standortdiskussionen ermöglichen, z.B. Diskussionen über ungenaue Beschreibungen, Definitionen, Änderung von Standorteigenschaften und dergleichen.
