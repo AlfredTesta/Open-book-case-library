@@ -15,7 +15,7 @@ Geocaching ist eine Art Schatzsuchen, bei dem Teilnehmer mit Hilfe von GPS-Koord
 Der Sinn ist Menschen zum Austausch von Büchern zu motivieren und gleichzeitig die Beobachtung von Selbstorganisation zu ermöglichen.
 Bibliothek ohne zentrale Organisation. Jeder Nutzer ist ein Bibliothekar.
 
-The app is called HocusLocus and is intended to make a special case of geocaching applicable.
+The app is called testaPP and is intended to make a special case of geocaching applicable.
 Geocaching is a type of treasure hunt in which participants use GPS coordinates and clues to find hidden “treasures” (called “caches”). The special case is that the cache is filled exclusively with books. It is therefore an open bookcase in a public space that works like a geocache.
 The purpose is to motivate people to exchange books and at the same time to enable the observation of self-organization.
 A library without a central organization. Every user is a librarian.
