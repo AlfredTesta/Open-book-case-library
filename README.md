@@ -10,7 +10,7 @@ https://drive.google.com/file/d/1_qNTx1C18FBw8FcWFqSiUlC729fwRKAy/view?usp=shari
 Conversation with chatgpt on the topic of HocusLocus . German version only
 
 Update 17.12.2024-2
-Die App soll HocusLocus heißen und einen Sonderfall von Geocaching anwendbar machen.
+Die App soll testaPP heißen und einen Sonderfall von Geocaching anwendbar machen.
 Geocaching ist eine Art Schatzsuchen, bei dem Teilnehmer mit Hilfe von GPS-Koordinaten und Hinweisen versteckte "Schätze" (genannt "Caches") finden. Der Sonderfall ist, dass der Cache ausschließlich mit Büchern bestückt wird. Es handelt sich also um einen offenen Bücherschrank im öffentlichen Raum, der wie ein Geocache funktioniert.
 Der Sinn ist Menschen zum Austausch von Büchern zu motivieren und gleichzeitig die Beobachtung von Selbstorganisation zu ermöglichen.
 Bibliothek ohne zentrale Organisation. Jeder Nutzer ist ein Bibliothekar.
